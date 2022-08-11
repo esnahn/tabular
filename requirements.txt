@@ -14,7 +14,7 @@ scikit-learn
 mlxtend
 dask-ml
 
-matplotlib<=3.5.2
+matplotlib
 seaborn
 
 pytorch-lightning
