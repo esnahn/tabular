@@ -1,0 +1,10 @@
+venv
+__pycache__
+
+title
+*.zip
+*.txt
+!requirements.txt
+
+*.pptx
+*.pdf
