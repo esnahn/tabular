@@ -17,4 +17,6 @@ dask-ml
 matplotlib
 seaborn
 
-pytorch-lightning
+pytorch-tabnet
+wget
+xgboost==0.90
