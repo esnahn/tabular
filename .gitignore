@@ -17,3 +17,6 @@ title
 *.pdf
 
 config.py
+test/
+
+catboost_info/
