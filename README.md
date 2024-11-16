@@ -3,8 +3,8 @@ install Visual C++ Redistributable from https://www.microsoft.com/en-us/download
 run below in powershell
 
 ```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 pip install -r .\requirements.txt
 ```
 
