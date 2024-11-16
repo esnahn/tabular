@@ -1,9 +1,21 @@
 wheel
+six
+
+wcwidth
+tabulate[widechars]
+tqdm
+
+# excel handling
+xlsx2csv
+openpyxl
+xlrd  # xls
 
 notebook
 ipykernel
+ipywidgets
 
 black
+ruff
 
 numpy
 pandas
@@ -17,6 +29,18 @@ dask-ml
 matplotlib
 seaborn
 
-pytorch-tabnet
+# from catboost: (if you want to use plot_tree function)
+graphviz  
+
+plotly
+scipy
+
 wget
-xgboost==0.90
+
+# requires DLL from https://www.microsoft.com/en-us/download/details.aspx?id=48145
+xgboost
+catboost
+
+pytorch-tabnet
+
+shap
